@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Caleb-Brown-TE20A-interaktivberattelse/1.0.0": {
+        "runtime": {
+          "Caleb-Brown-TE20A-interaktivberattelse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Caleb-Brown-TE20A-interaktivberattelse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

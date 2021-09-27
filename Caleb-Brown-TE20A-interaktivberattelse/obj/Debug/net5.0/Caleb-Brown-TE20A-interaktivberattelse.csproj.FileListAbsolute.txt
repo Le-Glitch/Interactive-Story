@@ -1,0 +1,16 @@
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\obj\Debug\net5.0\Caleb-Brown-TE20A-interaktivberattelse.csproj.AssemblyReference.cache
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\obj\Debug\net5.0\Caleb-Brown-TE20A-interaktivberattelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\obj\Debug\net5.0\Caleb-Brown-TE20A-interaktivberattelse.AssemblyInfoInputs.cache
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\obj\Debug\net5.0\Caleb-Brown-TE20A-interaktivberattelse.AssemblyInfo.cs
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\obj\Debug\net5.0\Caleb-Brown-TE20A-interaktivberattelse.csproj.CoreCompileInputs.cache
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\bin\Debug\net5.0\Caleb-Brown-TE20A-interaktivberattelse.exe
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\bin\Debug\net5.0\Caleb-Brown-TE20A-interaktivberattelse.deps.json
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\bin\Debug\net5.0\Caleb-Brown-TE20A-interaktivberattelse.runtimeconfig.json
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\bin\Debug\net5.0\Caleb-Brown-TE20A-interaktivberattelse.runtimeconfig.dev.json
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\bin\Debug\net5.0\Caleb-Brown-TE20A-interaktivberattelse.dll
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\bin\Debug\net5.0\ref\Caleb-Brown-TE20A-interaktivberattelse.dll
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\bin\Debug\net5.0\Caleb-Brown-TE20A-interaktivberattelse.pdb
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\obj\Debug\net5.0\Caleb-Brown-TE20A-interaktivberattelse.dll
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\obj\Debug\net5.0\ref\Caleb-Brown-TE20A-interaktivberattelse.dll
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\obj\Debug\net5.0\Caleb-Brown-TE20A-interaktivberattelse.pdb
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\Caleb-Brown-TE20A-interaktivberattelse\Caleb-Brown-TE20A-interaktivberattelse\obj\Debug\net5.0\Caleb-Brown-TE20A-interaktivberattelse.genruntimeconfig.cache
