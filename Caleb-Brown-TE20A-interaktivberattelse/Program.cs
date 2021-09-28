@@ -2,6 +2,9 @@
 
 string answer = "";
 
+
+    //changing "rooms"
+
     if(answer == "")
     {
         intro();
@@ -83,7 +86,7 @@ string answer = "";
     
     
     
-    
+    //Different methods that get called on depending on choices made
 
 void intro()
 {
