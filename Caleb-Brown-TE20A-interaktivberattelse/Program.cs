@@ -39,6 +39,7 @@ string answer = "";
 
     if(answer == "basement")
     {
+        Console.Clear();
         basement();
     }
 
@@ -86,7 +87,7 @@ string answer = "";
     
     
     
-    //Different methods that get called on depending on choices made
+    //Different methods that get called on in the if statements above depending on the choices made
 
 void intro()
 {
